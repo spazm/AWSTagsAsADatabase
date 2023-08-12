@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/OrenLeung/AWSTagsAsADatabase)
 
 
-**NOTE: Please Don't Acutally Use this as a Database!** 
+**NOTE: Please Don't Actually Use this as a Database!** 
 **Please Reference [An AWS Database Safari By Corey Quinn](https://www.lastweekinaws.com/blog/an-aws-database-safari/) for acutally databases**
 
 ## About 🏎️🏎️
